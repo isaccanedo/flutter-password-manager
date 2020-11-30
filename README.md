@@ -1,6 +1,6 @@
 # password_manager
 
-A new Flutter project.
+🔑 Como armazenar senhas usando sqflite e flutter
 
 ## Getting Started
 
